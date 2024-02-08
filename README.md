@@ -10,7 +10,7 @@ Skills: PYTHON / DJANGO / PHP/ JQUERY / JS / HTML / CSS/ BOOTSTRAP / WORDPRESS T
 - 💬 Ask me about Python, Django. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Afjal16)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100089616693936)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://coderafjal.com)  
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Afjal16)](https://github.com/ryo-ma/github-profile-trophy)
 
