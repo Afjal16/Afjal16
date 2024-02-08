@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋, My name is Md. Afjal Hossen
+#### I am a full-Stack developer with Django.
+![I am a full-Stack developer with Django.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**Afjal16/Afjal16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a professional Django developer. I can develop any websites using Django. I have skills are very strong likes that HTML, CSS, Bootstrap, JavaScript, jQuery, PHP, WordPress theme Customization and python, Django. I'm so passionate for learning new technologies, and continuously I'm updating myself.
 
-Here are some ideas to get you started:
+Skills: PYTHON / DJANGO / PHP/ JQUERY / JS / HTML / CSS/ BOOTSTRAP / WORDPRESS THEME  CUSTOMIZATION.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on E-Commerce Website. 
+- 💬 Ask me about Python, Django. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Afjal16)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100089616693936)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://coderafjal.com)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Afjal16)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afjal16)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Afjal16&show_icons=true)  
+
