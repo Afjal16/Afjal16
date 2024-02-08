@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Md. Afjal Hossen
 #### I am a full-Stack developer with Django.
-![I am a full-Stack developer with Django.]
 
 I am a professional Django developer. I can develop any websites using Django. I have skills are very strong likes that HTML, CSS, Bootstrap, JavaScript, jQuery, PHP, WordPress theme Customization and python, Django. I'm so passionate for learning new technologies, and continuously I'm updating myself.
 
